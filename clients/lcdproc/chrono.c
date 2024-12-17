@@ -400,7 +400,7 @@ big_clock_screen(int rep, int display, int *flags_ptr)
 	char fulltxt[16];
 	static char old_fulltxt[16];
 	static int heartbeat = 0;
-	static int TwentyFourHour = 1;
+	static int TwentyFourHour = 0;
 	int j = 0;
 	int digits = (lcd_wid >= 20) ? 6 : 4;
 	int xoffs = 0;
