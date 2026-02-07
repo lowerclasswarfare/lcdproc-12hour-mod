@@ -6,8 +6,12 @@ This is a version that modifies the lcdproc/clients/lcdproc/chrono.c file
 so that the Big Number widget will display in 12 Hour format instead of the
 default 24 Hour format.
 
+Now has the option to set 12/24 hour format in lcdproc.conf!
+
 I have a pretty specific use case for this, but if you find it useful, then
 awesome!
+
+Also, please be aware that I am not a master C dev, so expect bugs.
 
 --------------------------------------------------------------------------------
 
