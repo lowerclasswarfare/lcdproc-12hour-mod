@@ -2,7 +2,7 @@
 # This is NOT the official repository for the LCDproc project.
 You can find the official project [here.](https://github.com/lcdproc/lcdproc)
 
-This is a version that modifies the lcdproc/clients/lcdproc/chrono.c file
+This is a version that modifies the clients/lcdproc/chrono.c file
 so that the Big Number widget will display in 12 Hour format instead of the
 default 24 Hour format.
 
